@@ -11,6 +11,17 @@
 
 ##
 
+## 📌 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/caio-imperial/gopher-economy"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-imperial&repo=gopher-economy&theme=dracula"></a>
+  <a href="https://github.com/caio-imperial/CDI_ESP8266"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-imperial&repo=CDI_ESP8266&theme=dracula"></a>
+  <a href="https://github.com/caio-imperial/api_tse"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-imperial&repo=api_tse&theme=dracula"></a>
+  <a href="https://github.com/caio-imperial/monorepo-nestjs-nextjs"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caio-imperial&repo=monorepo-nestjs-nextjs&theme=dracula"></a>
+</div>
+
+##
+
 <div align="center">
   <a href="https://www.instagram.com/caio.imperial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:scaioimperial@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
