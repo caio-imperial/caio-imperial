@@ -1,4 +1,12 @@
-## Bem Vindo ao meu GitHub.
+## Olá! Eu sou o Caio Imperial 👋
+
+🚀 Desenvolvedor Full Stack | 📍 Brasil
+
+- 🔭 Trabalhando com **TypeScript**, **NestJS**, **NextJS** e **Go**
+- 🌱 Explorando arquitetura de monorepos e CLIs personalizadas
+- ⚡ Projetos com IoT, dados públicos e automação
+
+---
 
 <div align="center">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
